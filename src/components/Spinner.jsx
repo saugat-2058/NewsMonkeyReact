@@ -7,7 +7,7 @@ export default class spinner extends Component {
       <div>
         <div className="container text-center mt-5">
 
-        <img src={loading} alt="loading" />
+        <img className='my-3' src={loading} alt="loading" />
         </div>
       </div>
     )
